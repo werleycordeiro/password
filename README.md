@@ -1,4 +1,7 @@
 # password
 Password generator. My first package.  
 ```R
-install_github('password','werleycordeiro')
+# install.packages("devtools")
+# library(devtools)
+devtools::install_github("werleycordeiro/password")
+
