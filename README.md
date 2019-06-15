@@ -1,6 +1,6 @@
 # password
 ## Why use password?
-Sometimes it's hard to set a secure password. So I developed a random password generator. 
+Sometimes it's hard to set a secure password. So I developed a password generator. 
 ```R
 install.packages("devtools")
 library(devtools)
